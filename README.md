@@ -5,6 +5,6 @@ for i in range(1,num):
   if num%i==0:
     sum=sum+i
 if sum==num:
-  print("Perfect Number")
+  print("The given number is a Perfect Number")
 else:
-  print("Not a perfect number")
+  print("The given number is not a perfect number")
